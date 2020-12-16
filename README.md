@@ -1,4 +1,6 @@
 # tutorial
 
-The members of team :
-    1-Naeim Ahmadian
+##This project created for Traning Git command
+
+###The members of team :
+    >Naeim Ahmadian
