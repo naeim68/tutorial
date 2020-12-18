@@ -1,0 +1,7 @@
+@import "../abstracts/variables";
+
+.test{
+  background-color: $primary-color;
+  font-size: $base-size;
+  border:1px dashed $border-color;
+}
